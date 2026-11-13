@@ -1,0 +1,3 @@
+Course: Computer Science and Engineering
+Subject: Computer Programming
+Semester: 1
